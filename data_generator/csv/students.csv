@@ -1,0 +1,600 @@
+0,Russo,Nicolas,15-08-1999,M,VIIh,Schenectady
+1,Cooper,Royal,19-05-1994,M,Vj,Philadelphia
+2,Lawson,Austin,08-08-1994,M,IVi,Lincoln
+3,Dodson,Fiona,19-02-2001,W,Ig,Concord
+4,Farmer,Ana,05-03-1999,W,IVj,Glendora
+5,Calderon,Lila,03-07-1993,W,IIi,Kettering
+6,Fry,Selah,04-03-1993,W,IIId,Naperville
+7,Haynes,Sam,26-08-1995,M,IIb,Rancho Palos Verdes
+8,Singh,Yamileth,23-04-2000,W,VIh,Council Bluffs
+9,Guevara,Bailey,03-01-2002,W,Vd,Reno
+10,Hendrix,Eve,04-08-1991,W,VIIIe,Concord
+11,Briggs,Brinley,14-11-1998,W,IIIf,Pittsburg
+12,Felix,Adan,18-04-1997,M,VIk,Southfield
+13,Barr,Davina,27-11-1998,W,Vf,Eagan
+14,Cuevas,Delaney,01-12-2000,W,IIIk,Antioch
+15,Vang,Neil,29-05-1992,M,Id,Danville
+16,Singh,Dexter,13-02-1993,M,IIc,Apple Valley
+17,Santos,Cecelia,27-03-2000,W,IIe,Buckeye
+18,Kelly,Maria,19-10-1993,W,VIf,Cleveland
+19,Garrett,Anna,13-08-2000,W,VIa,Danville
+20,Long,Mia,21-10-1999,W,VIIId,New Orleans
+21,Blevins,Dorian,23-07-1990,M,VIIl,Blacksburg
+22,Burch,Jesse,12-07-1998,M,Vj,Palmdale
+23,Richardson,Jane,09-05-1998,W,VIIIl,Lima
+24,Oneill,Luka,01-06-1992,M,IIIa,Philadelphia
+25,Bruce,Valerie,03-02-2000,W,VIi,Meridian
+26,Giles,Shiloh,03-04-1994,M,IIi,Santa Fe
+27,Glass,Joy,11-01-1990,W,IVl,Sarasota
+28,Townsend,Bryson,20-05-1991,M,IIe,New Orleans
+29,Burton,Langston,28-01-1994,M,VIIe,Schenectady
+30,Dean,Johnny,05-04-2001,M,IIc,Columbus
+31,Deleon,Jamir,24-06-1993,M,IIh,Kingsport
+32,Benson,Isabel,01-08-1992,W,VIh,Deerfield Beach
+33,Michael,Ricky,08-04-1997,M,Ve,Lawrence
+34,Gilmore,Florence,20-03-1998,W,Ve,Woburn
+35,Chung,Samira,30-05-1990,W,Vd,Calumet City
+36,Hunt,Eden,04-12-1992,W,IIb,Oak Lawn
+37,Mitchell,Silas,16-01-1990,M,IIf,Kettering
+38,Kline,Karter,21-12-1995,M,VIIg,Boulder
+39,Franco,Mark,12-04-1992,M,VIi,Oak Lawn
+40,Fitzpatrick,Selene,06-02-2001,W,IVi,Mission Viejo
+41,Ware,Moises,07-03-2002,M,VIb,Blacksburg
+42,Aguirre,Brandon,25-12-1998,M,IIId,Apopka
+43,Wise,Emily,06-10-1994,W,IIf,Boulder
+44,Parrish,Cecelia,20-01-1993,W,Ic,The Colony
+45,Hunter,Trevor,13-08-1998,M,Il,Lubbock
+46,Huber,Dominic,22-03-1995,M,Vk,Grand Rapids
+47,Henson,Zayden,12-10-1991,M,IIIe,Meridian
+48,Lang,Juliette,22-12-1993,W,VIIh,Noblesville
+49,Arellano,Wells,21-01-1993,M,Ic,La Crosse
+50,Mora,Rory,05-06-1994,W,IVf,Bolingbrook
+51,Velasquez,Dash,20-01-2001,M,Vb,Buffalo
+52,Hicks,Mckenzie,23-12-1992,W,IIa,Perris
+53,Rocha,Erin,08-03-1999,W,Vb,Duluth
+54,Costa,Ernesto,27-01-1993,M,VIk,Blacksburg
+55,Cantrell,Gustavo,30-03-2001,M,VIl,Westminster
+56,Peralta,Phoenix,23-10-1996,M,Vk,Daytona Beach
+57,Arellano,Janessa,21-05-1992,W,VIIId,Waukesha
+58,Castillo,Apollo,03-08-1996,M,IIf,Colorado Springs
+59,Mullins,Hendrix,09-10-1993,M,IVk,Mount Pleasant
+60,Quintana,Carmen,13-01-1998,W,IVa,Hollywood
+61,Mcclure,Iris,21-04-1995,W,IIi,Brea
+62,Rosario,Maddox,07-09-1995,M,VIIId,Columbia
+63,Hoffman,Camron,02-12-1990,M,VIIi,Allen
+64,Reeves,Hadassah,29-10-1990,W,IIIa,Pittsburg
+65,Spears,Darrell,24-07-1995,M,VIIIh,Aurora
+66,Fox,Alaric,15-05-1993,M,VIIIa,Elkhart
+67,Bruce,Mario,19-03-2001,M,IIg,Southaven
+68,Avery,Clark,29-10-2000,M,VIIi,El Centro
+69,Vargas,Liberty,20-08-1997,W,IVi,Concord
+70,Carrillo,Joaquin,25-03-1996,M,VIi,Waukesha
+71,Ferguson,Valeria,26-05-2001,W,VIIc,El Centro
+72,Benjamin,Ulises,26-11-1993,M,IIh,Aurora
+73,Vargas,Kehlani,21-11-1996,W,VIa,Aurora
+74,Higgins,Ledger,15-11-1996,M,VIi,Lawrence
+75,Weaver,Perla,20-04-2001,W,IIIb,Cleveland
+76,Woodard,Jillian,19-08-1992,W,IVh,San Antonio
+77,Vo,Marlon,01-10-2001,M,IIj,Mission
+78,Whitney,Castiel,04-05-1991,M,IVb,Hartford
+79,Bartlett,Madison,16-04-1995,W,Ih,Visalia
+80,Velez,Aadhya,04-08-2000,W,IVc,Dublin
+81,Frank,Jurnee,20-12-2001,W,IVl,Clovis
+82,Pennington,Deacon,22-07-1999,M,IVj,Dublin
+83,Sandoval,Alexandra,30-04-1996,W,Il,Meridian
+84,Schmidt,Carolyn,27-04-1995,W,VIIIk,Oak Park
+85,Sandoval,Aubriella,27-08-1998,W,IId,Council Bluffs
+86,Gates,Zayden,02-02-1998,M,IId,Stamford
+87,Hickman,Emerald,23-04-1994,W,VIIIe,Kettering
+88,Oconnor,Kayson,09-07-1998,M,Vc,Aurora
+89,Morris,Genesis,14-04-2000,W,IVl,Deerfield Beach
+90,Benson,Arabella,15-01-1995,W,IIk,Buena Park
+91,Crane,Odin,18-02-1996,M,VIb,Duluth
+92,Rosas,Meadow,05-06-1998,W,IIl,Moreno Valley
+93,Zimmerman,Rosie,19-02-1996,W,VIIId,Westminster
+94,Gilmore,Dalary,05-10-1998,W,VIIIb,Waterbury
+95,Fuller,Leila,14-05-1999,W,VIa,Lincoln
+96,Bender,Tanner,22-10-1991,M,IIIf,Bellflower
+97,Montoya,Dax,07-04-1991,M,VIIIb,Grand Rapids
+98,Vincent,Livia,09-10-1994,W,Vh,Oak Lawn
+99,Craig,Corbin,01-04-1992,M,IVe,Layton
+100,Francis,Khaleesi,30-12-2001,W,VIa,Roswell
+101,Glover,Jerry,05-09-2001,M,Ve,Tallahassee
+102,Holt,Raylee,20-08-1996,W,IIf,Lincoln
+103,Wang,Leanna,21-04-1991,W,IVg,Fall River
+104,Guerrero,Gideon,08-08-1992,M,VIId,La Crosse
+105,Ford,Meredith,07-05-1998,W,VIIk,Allentown
+106,Hudson,Gwendolyn,10-01-2002,W,VIIIg,Layton
+107,Schwartz,Iker,24-11-1992,M,Va,Sacramento
+108,Guerra,Aubree,14-02-1997,W,IIj,Bolingbrook
+109,Yates,Winston,07-06-1992,M,Vi,Lincoln
+110,Knapp,Yusuf,17-03-2001,M,VIIIl,Novato
+111,Holland,Mira,17-08-1997,W,VIb,Lakewood
+112,Padilla,Aviana,15-04-1990,W,VIi,Covina
+113,Mann,Hunter,23-07-1999,M,IIk,La Crosse
+114,Gordon,Mikayla,31-07-1995,W,Il,Boise City
+115,Raymond,Elianna,01-03-1997,W,VId,Rowlett
+116,Eaton,Sofia,06-06-1996,W,IIIl,Grand Rapids
+117,Stone,Dax,29-03-1993,M,VIIa,Sacramento
+118,Villa,Meredith,08-12-1990,W,Ik,Sarasota
+119,Ball,Tyler,28-12-1991,M,IIk,Lenexa
+120,Friedman,Azariah,01-07-1994,M,VIj,Springfield
+121,Lee,Galilea,23-08-1998,W,IVg,San Antonio
+122,Franklin,Sincere,11-01-1998,M,Vc,Cuyahoga Falls
+123,Welch,Keenan,19-11-1999,M,Ve,Mount Vernon
+124,Kelley,Lillian,13-08-1992,W,VIIh,Salem
+125,Fuentes,Sylvia,17-05-1994,W,IIIi,Rochester
+126,Barker,Ezekiel,12-03-1994,M,IVj,West Haven
+127,Rice,Dahlia,15-03-1999,W,IVa,Woburn
+128,Murillo,Lennon,07-12-1996,M,Ic,Weymouth Town
+129,Zuniga,Adley,07-05-2000,W,IIIf,Glendora
+130,Young,Macy,10-07-2001,W,VIIIj,Bellingham
+131,Suarez,Aniya,24-06-1996,W,Vf,Coachella
+132,Sellers,Kade,08-04-1998,M,VIb,Cuyahoga Falls
+133,Leonard,Isabella,30-04-1991,W,VIIk,Southaven
+134,Stanley,Bishop,01-03-2001,M,IId,Sarasota
+135,Pena,Elaina,04-12-2001,W,IIIk,Woburn
+136,Stevens,Emersyn,08-01-2001,W,IVb,Marana
+137,Floyd,Leroy,08-05-2002,M,IVb,Mission
+138,Glass,Ira,14-07-1999,M,VIl,Lake Havasu City
+139,Dejesus,Eve,17-02-1994,W,VIIIf,Covina
+140,Mack,Tori,05-11-1992,W,VIIIg,Glendora
+141,Chase,Vivian,12-07-1995,W,VIi,Fond du Lac
+142,Medina,Kase,07-10-1993,M,IIIf,Sarasota
+143,Spencer,Ramona,21-02-1995,W,VIIa,Raleigh
+144,Clark,Caspian,03-05-1992,M,VIb,North Little Rock
+145,Hawkins,Lindsey,09-12-1999,W,Ve,Novato
+146,Mann,Tripp,07-11-1995,M,IVj,Napa
+147,Moreno,Jagger,31-05-1992,M,VIIIc,Brooklyn Park
+148,Mccall,Cecilia,06-08-1995,W,IIIh,Rowlett
+149,Rodriguez,Neil,18-01-1995,M,IIf,Raleigh
+150,Wang,Kinslee,13-09-2000,W,VIIIj,Hartford
+151,Winters,Isabelle,03-07-1995,W,Id,Fountain Valley
+152,Blair,Malaysia,18-12-1997,W,Ij,Bend
+153,Walls,Graham,20-08-1999,M,IIIl,Marlborough
+154,Prince,Joelle,15-10-1995,W,IVl,Hollywood
+155,Little,Clayton,10-11-1999,M,VIh,Sacramento
+156,Pace,Royal,13-10-1993,W,IIa,Kettering
+157,Jenkins,Hassan,26-04-1997,M,IIf,Southaven
+158,Dean,Leroy,15-03-1999,M,IIIc,Tulare
+159,Wade,Jimmy,22-05-2000,M,VIIId,Trenton
+160,Flynn,Hunter,05-11-1998,M,Va,Grand Rapids
+161,Miranda,Erick,15-10-1996,M,VIIIc,Oak Park
+162,Graham,Khloe,07-02-1998,W,Ib,Moreno Valley
+163,Avalos,Albert,28-03-1998,M,IIIh,Rancho Palos Verdes
+164,Lowery,Paula,11-11-1999,W,IIIg,Indio
+165,Barry,Brian,29-07-2000,M,VIIIk,El Centro
+166,Moon,Lailah,08-11-1992,W,Vc,Urbandale
+167,King,Santiago,15-08-1995,M,Ib,Sarasota
+168,Hart,Elise,09-02-1991,W,IVf,Portland
+169,Gregory,Yisroel,08-04-2002,M,IVg,La Crosse
+170,Abbott,Ethan,26-02-1991,M,VIIf,St. Charles
+171,Salgado,Liberty,23-03-2000,W,VIId,El Centro
+172,Solomon,Gibson,24-02-1994,M,IVb,Deerfield Beach
+173,Warren,Mabel,16-09-1998,W,Ic,Sacramento
+174,Snow,Malcolm,13-02-1993,M,IIh,Santa Fe
+175,Mcgee,Kace,27-07-1990,M,VIIh,Portland
+176,Moreno,Archer,27-05-1991,M,VIIId,Grand Rapids
+177,Moody,Aliyah,28-12-1997,W,VIId,Raleigh
+178,Ellison,Keith,22-01-1991,M,Vf,Fond du Lac
+179,Lopez,Dillon,05-05-1998,M,IIIi,Oak Lawn
+180,Mann,Emery,02-10-1995,M,Ik,Lancaster
+181,Ortiz,Raphael,02-07-1990,M,IId,Cuyahoga Falls
+182,Cole,Lilah,28-04-2002,W,IIc,Bremerton
+183,Bates,Jazlynn,20-08-1998,W,VIIId,Parker
+184,Fields,Lucille,05-12-2000,W,Ve,Kingsport
+185,Macdonald,Emmet,25-04-1991,M,IIId,Marysville
+186,Berry,Kenzie,04-06-1992,W,IIId,Glenview
+187,Sweeney,Maxwell,07-06-1997,M,VIIIi,Hartford
+188,Colon,Treasure,05-02-1997,W,VIIIh,Daytona Beach
+189,Cobb,Beckham,01-11-1996,M,IIl,Visalia
+190,Glenn,Bryant,27-12-2001,M,Vc,Colorado Springs
+191,Johns,Matthias,18-04-1990,M,VIg,Mission
+192,Patrick,Dean,08-08-1992,M,Ia,Tulare
+193,Villarreal,Nico,01-07-2000,M,Il,Lafayette
+194,Robbins,Jessica,18-01-1994,W,IVb,Lakewood
+195,Sellers,Briana,23-08-1994,W,Ve,Clovis
+196,Todd,Jayson,12-03-1995,M,VIk,Campbell
+197,Goodman,Lillianna,19-05-1991,W,IIf,Walnut Creek
+198,Huff,Louisa,30-05-1998,W,Ik,Aurora
+199,Reeves,Frankie,24-05-1998,W,Vl,Southfield
+200,Johnston,Landyn,06-07-1991,M,VIIIi,Cuyahoga Falls
+201,Christian,Johnny,12-08-1990,M,Vl,DeKalb
+202,Maldonado,Dylan,08-08-1991,W,IVd,Cheyenne
+203,Parker,Evan,01-03-1997,M,IIf,North Lauderdale
+204,Colon,Morgan,18-07-1996,W,VIf,Marysville
+205,Holt,Leia,22-10-1996,W,VIh,Lincoln
+206,Delgado,Marlowe,21-01-1995,W,IIi,West Haven
+207,Francis,Roman,23-09-1999,M,VIIf,Daytona Beach
+208,Schmidt,Miracle,29-07-1991,W,VIl,Frederick
+209,Alexander,Jorge,02-06-1998,M,IIIb,Waukesha
+210,Wilson,Kieran,14-12-1992,M,IIl,Concord
+211,Leon,Randy,05-05-1998,M,IIa,Layton
+212,Suarez,Aya,13-08-2001,W,IVf,Worcester
+213,Weber,Ariya,08-09-2001,W,Vd,Tulsa
+214,Hurst,Alejandro,22-12-1998,M,Id,Columbia
+215,Hobbs,Bodie,13-03-2000,M,Vg,Lincoln
+216,Cardenas,Zain,26-02-2002,M,VIIh,Jackson
+217,Delgado,Jalen,09-01-1995,M,VIa,Roanoke
+218,Edwards,Sebastian,10-08-1990,M,IVc,Tulsa
+219,Li,Dean,30-06-1999,M,IIIh,Duluth
+220,Calderon,Maliyah,24-02-1992,W,IIIj,Noblesville
+221,Shaffer,Isaias,28-09-1999,M,IIIa,Montgomery
+222,Wilkinson,Molly,10-11-1990,W,VIIIh,Visalia
+223,Ramirez,Trevor,18-12-1995,M,VIIf,Bellingham
+224,Griffin,Myah,09-10-2001,W,Ii,Lake Havasu City
+225,Cortez,Alec,06-02-1994,M,IIf,Sarasota
+226,Tyler,Landyn,27-11-1990,M,VIe,Fort Smith
+227,Smith,Edgar,28-01-2001,M,IIIc,Smyrna
+228,Nash,Stephen,30-11-1994,M,Ik,Fishers
+229,Lamb,Ronald,31-10-1995,M,Ig,Bend
+230,Harrell,Joanna,14-06-1998,W,IVg,Roswell
+231,Terrell,Jermaine,19-11-1996,M,IIb,Fishers
+232,Zimmerman,Nickolas,22-08-1991,M,IVb,Urbandale
+233,Brown,Deandre,14-03-1992,M,If,Frederick
+234,Gates,Addison,27-03-2000,W,Vi,Boulder
+235,Logan,Ameer,03-05-1992,M,IIa,Kettering
+236,Weiss,Donovan,08-09-1999,M,Id,New Orleans
+237,Bailey,Davina,07-02-1990,W,VIIg,Elkhart
+238,Mcconnell,Maison,07-08-1996,M,Vf,Cary
+239,Novak,Nicholas,31-10-1991,M,Va,Cheyenne
+240,Khan,Callen,03-04-1992,M,Vd,Fond du Lac
+241,Reid,Heavenly,03-12-1993,W,Vg,Concord
+242,Gregory,Achilles,07-04-1992,M,Ih,Pittsburg
+243,Castaneda,Lyle,29-09-1997,M,VIg,Wausau
+244,Finley,Valerie,30-11-1997,W,IIb,Plantation
+245,Zhang,Amari,21-09-1990,W,Ih,Kingsport
+246,Lang,Jocelyn,16-05-1992,W,VIIId,Tallahassee
+247,Haynes,Frankie,14-07-2000,W,VIIIj,East Providence
+248,Valencia,Christine,15-07-1998,W,VIIId,Allen
+249,Armstrong,Caiden,10-10-1993,M,Ic,Thornton
+250,Peck,Easton,12-05-2002,M,IIIc,Tulsa
+251,Bennett,Jamie,28-02-2000,W,IVc,Bellingham
+252,Charles,Mike,22-05-1999,M,VIh,Layton
+253,Wu,Cody,10-07-2000,M,Il,East Providence
+254,Chase,Malia,16-04-1991,W,Ia,Orange
+255,Kramer,Craig,16-10-2001,M,Vd,Rancho Palos Verdes
+256,Morgan,Graysen,05-06-2001,M,IIf,Grand Forks
+257,Mccullough,Aniya,08-09-2000,W,IIIb,Bellingham
+258,Rhodes,Isabelle,16-05-1991,W,VIh,Meridian
+259,Velez,Kian,26-12-1990,M,VIIIe,Buckeye
+260,Holland,Ryland,21-08-2001,M,IIIc,San Antonio
+261,Barton,Andres,10-02-1998,M,VIIIf,Lake Havasu City
+262,Blackburn,Cullen,28-01-2001,M,VIj,St. Charles
+263,Sims,Allen,26-07-1995,M,IIe,Grand Rapids
+264,Morrison,Abraham,10-05-1990,M,VIIe,Concord
+265,Joseph,Liam,17-10-1991,M,VIIf,Chino
+266,Giles,Paris,27-05-1994,W,IIa,Walnut Creek
+267,Frye,Naya,11-04-1996,W,Ie,Apple Valley
+268,Flowers,Salvador,29-03-1999,M,Vc,Sacramento
+269,Marsh,Jamir,15-10-1995,M,IIc,Visalia
+270,Rocha,Kaleb,09-05-1993,M,IVe,Naperville
+271,Bradley,Veronica,24-06-2000,W,Ij,Indio
+272,Huffman,Laurel,23-11-1992,W,Vj,Overland Park
+273,Powers,Perla,15-10-1992,W,IVj,Hollywood
+274,Colon,Emberly,29-09-1991,W,IIIf,Lakewood
+275,Manning,Kaylani,16-03-1998,W,VIIe,Aurora
+276,Fletcher,Naomi,18-04-1990,W,VIIl,Lancaster
+277,Mccoy,Rocco,19-02-1992,M,Vf,Concord
+278,Pennington,Bishop,18-01-1990,M,Vi,Colorado Springs
+279,Nunez,Dennis,12-04-1999,M,IVl,Apple Valley
+280,Ochoa,Joey,09-09-1992,M,VIIf,Lakewood
+281,Ward,Blaine,22-05-1990,M,Va,Elkhart
+282,Dunn,Koa,21-07-1999,M,VIIIg,Tampa
+283,Robertson,Mae,07-12-1994,W,Ij,Lancaster
+284,Keith,Kaison,07-12-1992,M,VIIh,Tulare
+285,Martinez,Lisa,24-03-1993,W,Vg,East Providence
+286,May,Ariadne,29-10-2000,W,Ig,Boston
+287,Frank,Valentino,31-07-2000,M,IIh,Tallahassee
+288,Choi,Emmy,06-04-1994,W,VIk,Hartford
+289,Morton,Shiloh,19-04-1994,M,IIIg,Fort Smith
+290,Page,Sunny,07-03-1992,W,Vh,Lubbock
+291,Cabrera,Julia,21-05-1990,W,VIIb,Visalia
+292,Portillo,Deacon,29-11-1995,M,IVc,Florissant
+293,Kelley,Gabriela,06-09-1993,W,IIk,Eagan
+294,Cohen,Scarlet,16-04-1996,W,Ia,Doral
+295,Park,Lewis,04-06-1995,M,VIb,Modesto
+296,Mckee,Darian,20-04-1994,M,If,Columbus
+297,Anderson,Jessica,27-12-2000,W,VIIIc,Columbia
+298,Figueroa,Alaric,25-02-1996,M,Vj,Concord
+299,Caldwell,Jamal,10-11-1992,M,VIIIh,Napa
+300,Smith,Duncan,08-05-1998,M,IIg,Calexico
+301,Serrano,Daisy,07-04-1997,W,VIIId,Boise City
+302,Figueroa,Samantha,25-03-2001,W,IIIk,Oak Lawn
+303,Harrison,Everett,25-11-1992,M,VIk,Pearland
+304,Mccormick,Riley,20-09-1995,W,IVe,Fountain Valley
+305,Michael,Bronson,18-11-2000,M,VIi,Coral Springs
+306,Blackwell,Virginia,06-01-1996,W,IVj,Westminster
+307,Cisneros,Zuri,04-04-2001,W,Ib,Walnut Creek
+308,Bryant,Maliyah,27-04-1998,W,VIi,Columbia
+309,Deleon,Milan,28-04-2000,W,IIIf,Texarkana
+310,Branch,Ben,05-10-1995,M,Vd,Burien
+311,Hood,Averie,27-12-1997,W,VIIIe,Glenview
+312,Alfaro,Kase,04-12-1998,M,IIIh,Oak Lawn
+313,Walker,Kate,24-11-1993,W,VIIe,Buena Park
+314,Hardin,Scott,09-01-2001,M,VIIIl,Burnsville
+315,Wilson,Henrik,20-06-1991,M,Ia,Fort Myers
+316,Vance,Rory,09-03-1994,W,IVc,Boston
+317,Combs,Maverick,14-04-1998,M,IIIf,Riverside
+318,Garrett,Blaise,12-12-2000,M,IIa,Columbus
+319,Bryant,Noemi,01-06-1996,W,VIl,Hollywood
+320,Walton,Angelo,25-10-1998,M,IVd,Noblesville
+321,Villa,Royal,27-09-1995,W,VIk,El Centro
+322,Rodriguez,Anika,29-12-1992,W,IIIg,Glendora
+323,Rangel,Claire,26-06-1998,W,IIIc,Reno
+324,Arellano,Kamari,19-06-1994,M,Ii,Portland
+325,Kelly,Calvin,11-01-1992,M,Ve,New Orleans
+326,Gilbert,Alisha,23-06-2000,W,VIIIi,Doral
+327,Rollins,Faith,17-08-1992,W,IVc,Rancho Palos Verdes
+328,Stark,Issac,25-02-1998,M,IIIc,Elkhart
+329,Cline,Alexis,25-08-1998,M,IIIb,The Colony
+330,Bush,Kassandra,21-05-1995,W,IIa,Lubbock
+331,Frost,Zechariah,23-04-2002,M,IIj,Cheyenne
+332,Acosta,Titus,06-04-2001,M,IVj,Cuyahoga Falls
+333,Brown,Joziah,18-03-1993,M,Id,Kettering
+334,Avalos,Kenna,19-12-1993,W,VIIIc,Napa
+335,Hampton,Aranza,27-04-1995,W,VIIh,Thornton
+336,Mckee,Randy,23-12-1997,M,VIIIj,Flagstaff
+337,Brennan,Azariah,07-12-1999,M,VIIl,Tucson
+338,Garcia,Hanna,24-09-2000,W,VIIIf,Flagstaff
+339,Winters,Kamden,16-07-1991,M,VIIIk,Flint
+340,Gibbs,Darrell,14-07-1996,M,VIIk,Lincoln Park
+341,Fry,Prince,27-12-1991,M,Ve,Frederick
+342,Clarke,Noa,15-06-1994,W,Ib,Kingsport
+343,Mckay,Kristopher,07-12-1999,M,IVc,Clovis
+344,Kline,Brantley,11-09-1992,M,VIIIh,Lake Havasu City
+345,Casey,Tyson,13-08-1997,M,IIf,Cary
+346,Vu,Clyde,18-01-1995,M,Vf,Mount Pleasant
+347,Felix,Corbin,14-07-1991,M,IVh,Lincoln
+348,Sutton,Ari,23-12-1995,W,VIg,North Richland Hills
+349,Perez,Lincoln,14-04-1991,M,VIIa,West Allis
+350,Church,Kendall,14-11-1990,W,Ih,Meridian
+351,Harris,Harley,14-11-1996,W,VIIIk,Jurupa Valley
+352,Carrillo,Virginia,15-09-1997,W,VIIIc,Malden
+353,Galvan,Joel,29-09-2000,M,IVa,Smyrna
+354,Vang,Paris,06-11-1991,W,VIIIb,Jackson
+355,Dean,Lamar,28-12-1999,M,IVb,Sarasota
+356,Vega,Ella,16-12-1999,W,VIIIi,Leesburg
+357,Fitzpatrick,Hana,23-05-1994,W,IId,Lima
+358,Cortes,Ryleigh,02-05-2000,W,Ib,Brea
+359,Reyna,Wilder,09-05-1999,M,IIIa,Layton
+360,Friedman,Sawyer,13-10-2000,W,VIIIa,Oak Park
+361,Yu,Adelina,26-04-1990,W,Ij,Salem
+362,Wolfe,Khalid,20-12-1996,M,VIk,Salem
+363,Fry,Oaklynn,17-08-1990,W,IIIg,Palmdale
+364,May,Parker,30-12-1998,M,VIIa,Oak Lawn
+365,Simmons,Catalina,14-06-1990,W,IIIk,Riverside
+366,Chapman,Phillip,26-03-1997,M,IIb,Henderson
+367,Watts,Genesis,14-01-1995,W,Ve,Philadelphia
+368,Proctor,Cory,29-03-1993,M,IIi,Oak Park
+369,Gill,Katie,20-09-2001,W,Vg,Cary
+370,Rowe,Tripp,01-12-1990,M,IVl,Buckeye
+371,Trevino,Marco,07-11-1995,M,IIf,Indio
+372,Hayden,Grant,25-04-1990,M,VIj,Oak Park
+373,Duke,Elizabeth,30-05-2001,W,VId,North Little Rock
+374,Sanders,Aitana,19-01-1996,W,Id,Lenexa
+375,Ray,Giovanni,02-01-1998,M,IIIg,Bolingbrook
+376,Shields,Corbin,09-03-2001,M,VIIIe,Glendora
+377,Eaton,Lylah,03-03-2000,W,Vc,Palmdale
+378,Escobar,Eliza,28-11-1999,W,VIIh,Chula Vista
+379,Lowe,Jorge,09-06-1998,M,IIl,Allen
+380,Cameron,Nicole,21-08-2000,W,VIIIa,Riverside
+381,Lynch,Khari,02-10-1996,M,VIIIf,Westminster
+382,Stephenson,Valentina,11-04-1997,W,IIg,Apopka
+383,Mcclain,Princeton,18-01-1990,M,Vk,Waukesha
+384,Barker,Mia,03-07-1999,W,Il,Calumet City
+385,Oliver,Allen,10-06-1990,M,VIIIi,Allentown
+386,Gross,Alyssa,01-08-1992,W,Vb,Napa
+387,Nash,Raylee,03-10-1991,W,IVb,Denver
+388,Freeman,Azariah,23-06-2001,W,IIh,Marysville
+389,Gilmore,Haven,11-12-1998,W,IIIe,Boise City
+390,Graves,Nasir,22-09-1996,M,IVa,Urbandale
+391,Griffith,Sylvie,04-08-1994,W,VIIId,Walnut Creek
+392,Vazquez,Cassius,06-07-1998,M,VIIIa,Waltham
+393,Mcmahon,Ivy,03-11-1990,W,VIIId,Cary
+394,Lindsey,Erick,14-07-2001,M,VIId,Fountain Valley
+395,Moreno,Vaughn,26-10-1995,M,VIIIg,Lancaster
+396,Heath,Rhea,24-02-1998,W,VIIl,Baytown
+397,Trujillo,Ellianna,01-05-1990,W,IIIj,Chino
+398,Montes,Rex,26-10-1995,M,IIIb,Burien
+399,Wade,Timothy,15-07-2001,M,Vk,Binghamton
+400,Black,Hadassah,11-11-1992,W,VIIIl,Malden
+401,Sampson,Alejandra,13-10-1995,W,IIe,Plantation
+402,Quintana,Sariah,07-04-1993,W,IIIg,Lafayette
+403,Villalobos,Miley,18-02-2001,W,VIIc,Woburn
+404,Day,Amirah,15-12-1996,W,VIId,Waterbury
+405,Reynolds,Belen,30-11-1995,W,VIIIg,Campbell
+406,Fry,Kamden,26-03-1995,M,IIId,Lima
+407,Hensley,Alejandro,28-10-1993,M,IIIk,Marietta
+408,Lugo,Khaleesi,27-11-2001,W,IIIk,Columbia
+409,Woods,Abel,18-11-1994,M,VIj,Eagan
+410,Golden,Hannah,18-04-1998,W,IIf,Buckeye
+411,Swanson,Alessia,05-12-2001,W,VIIId,Mission
+412,Medrano,Ricardo,25-01-1996,M,VIg,Wausau
+413,Martinez,Greta,25-03-2000,W,VIi,Lenexa
+414,Miranda,Anderson,24-11-1995,M,IVl,Gilbert
+415,Good,Peter,20-03-1991,M,IIg,Naperville
+416,Diaz,Zion,14-06-1996,M,IVf,Lancaster
+417,Little,Mariah,02-01-2001,W,Vg,Noblesville
+418,Espinoza,Leland,24-05-2001,M,Ij,Denver
+419,Yates,Estelle,24-03-1998,W,VIIb,Raleigh
+420,Sharp,Haylee,18-06-1990,W,Id,Bloomington
+421,Montoya,Jamal,22-05-1992,M,Ih,Coachella
+422,Gardner,Daniela,05-12-1997,W,VIIIf,Coachella
+423,Shepard,Warren,18-04-2002,M,VIi,Roanoke
+424,Wallace,Keyla,08-06-1997,W,Ih,Duluth
+425,Franco,Conner,18-08-1992,M,VIh,Aurora
+426,Berg,Luke,09-08-2000,M,VIIe,Glenview
+427,Wilkinson,Alani,17-08-1993,W,Ve,Fall River
+428,Phan,Joyce,22-08-1994,W,IVb,Beloit
+429,Gross,Chaim,01-03-2000,M,Ik,Buffalo
+430,Morse,Nehemiah,17-02-2001,M,IVf,Fort Myers
+431,Salas,Raymond,20-10-1991,M,IIId,St. Charles
+432,Castaneda,Rhea,23-09-2000,W,IIIh,Roanoke
+433,Boone,Sylvia,04-07-1992,W,If,Deerfield Beach
+434,Summers,Alia,13-03-1990,W,IIIf,Conroe
+435,Hunter,Justice,19-12-1998,M,IIIg,Fall River
+436,Yoder,Jamison,15-04-1999,M,VIj,La Crosse
+437,Sierra,Alma,21-03-1990,W,VIIIb,Lancaster
+438,Crosby,Knox,17-07-1995,M,IVf,Blacksburg
+439,Rodgers,William,24-07-1995,M,IIIh,Indio
+440,Summers,Kaiser,09-03-1998,M,Ii,Parker
+441,Kline,Elyse,26-05-1990,W,IIl,Apple Valley
+442,Kramer,Hallie,07-07-1991,W,VIi,Riverside
+443,Lara,Anna,19-12-1993,W,VIc,Blacksburg
+444,Palmer,Jamari,30-04-1998,M,Ik,Grand Rapids
+445,Walters,Franco,24-09-1991,M,Ve,Tucson
+446,Perkins,Decker,29-09-1998,M,IVi,Malden
+447,Evans,Paulina,11-12-1998,W,IIc,Portland
+448,Gallagher,Dalton,19-05-1996,M,IIId,Murrieta
+449,Wiggins,Lily,22-08-1999,W,VIIIf,Glenview
+450,Harper,Joe,16-05-2000,M,IIj,Perris
+451,Snow,Adelina,19-02-2002,W,IIIj,Cleveland
+452,Rice,Sasha,11-11-2000,W,IIh,Texarkana
+453,Cox,Morgan,16-04-1997,M,IVb,Cleveland
+454,Hinton,Avalynn,18-06-1990,W,VIIIb,Fond du Lac
+455,Vaughn,Damari,17-03-2001,M,IIIe,Prescott
+456,Ibarra,Ronald,26-09-2000,M,IIf,Mount Pleasant
+457,Mclean,Francesca,14-11-1990,W,IIIh,Concord
+458,Silva,Holly,14-06-1995,W,IIj,St. Charles
+459,Mendoza,Colin,22-07-1998,M,VIIIf,Fall River
+460,Woods,Braydon,14-03-1990,M,IVa,Kansas City
+461,Schwartz,Mike,25-11-1996,M,Vd,Allen
+462,Stuart,Lennon,12-03-1994,M,IVa,Florissant
+463,Stevens,Bishop,16-10-1993,M,IVb,Glenview
+464,Zhang,Aviana,30-08-2000,W,Ic,Lakewood
+465,Olson,Patricia,31-07-1994,W,VIIId,Layton
+466,Li,Milani,06-07-2000,W,IIId,Chino
+467,Andrews,Rashad,03-11-1992,M,IIh,Stamford
+468,Hamilton,London,24-08-1992,W,IVb,Lawrence
+469,Dudley,Brenna,08-04-2002,W,VIe,Jurupa Valley
+470,Fields,Myles,01-10-1991,M,IIj,Lancaster
+471,York,Aria,12-11-1994,W,IVe,Buffalo
+472,Cross,Nehemiah,02-05-1999,M,VId,Dublin
+473,Madden,Jaden,30-09-1998,M,Vb,Lakewood
+474,Dixon,Alistair,02-10-1995,M,VIc,Mission Viejo
+475,Grant,George,29-08-1990,M,Ib,Boise City
+476,Gilbert,Rowan,12-02-1995,M,IIl,Cuyahoga Falls
+477,Villanueva,Alayah,24-03-1993,W,Ij,Annapolis
+478,Noble,Macy,08-02-1999,W,IIf,Gaithersburg
+479,Berg,Rudy,19-07-1992,M,Ii,Jackson
+480,Gray,Briar,14-04-1992,W,VIIIc,Glendora
+481,Holt,Naomi,24-12-2000,W,Vg,Antioch
+482,Richardson,Tanner,22-01-2000,M,VIIIl,Boulder
+483,Combs,Raphael,20-09-2000,M,VIIl,Daytona Beach
+484,Torres,Sergio,18-04-1994,M,VIf,Columbus
+485,Greene,Kaitlyn,15-03-2002,W,VIi,Flint
+486,Evans,Jesse,09-07-2001,M,IIk,West Des Moines
+487,Meyer,Edward,15-05-1997,M,IIId,Council Bluffs
+488,Jennings,Estelle,04-01-1999,W,VIIe,Fall River
+489,Gibson,Alexa,18-08-1994,W,Vc,Antioch
+490,Gutierrez,Keagan,01-08-1992,M,IIIj,Puyallup
+491,Tyler,Alyson,05-09-1994,W,Ij,Covina
+492,Patterson,Marleigh,01-10-1990,W,VIIIk,Hartford
+493,Clarke,Kalel,24-06-1995,M,IVa,Lancaster
+494,Hayes,Kailey,01-06-1999,W,VIf,Orange
+495,Ray,Grayson,18-12-1998,M,IIk,Tucson
+496,Little,Kairi,20-03-2002,W,IVe,Waukesha
+497,Gray,Mckenna,31-01-1999,W,IIIe,Texarkana
+498,Bryan,Helena,08-01-1990,W,VIId,Sacramento
+499,Curry,Alfonso,16-07-1994,M,VIIIi,Leesburg
+500,Bender,Jonas,08-02-2000,M,IVe,Aurora
+501,Colon,Kyrie,09-03-1995,M,If,Buena Park
+502,Dominguez,Renee,14-12-1991,W,IVi,Porterville
+503,Vargas,Braelynn,08-05-1992,W,Ij,Westminster
+504,Daniel,Ainsley,05-02-1996,W,Ia,Salem
+505,Skinner,Ty,27-06-1997,M,IIIk,Fountain Valley
+506,Brown,Celia,26-04-2000,W,IIc,Boise City
+507,Robertson,Analia,10-11-1990,W,IIh,Parker
+508,Kirk,Gianni,17-03-1995,M,IVk,Flint
+509,Castaneda,Remington,16-05-1997,M,Il,Texarkana
+510,Bowman,Aden,17-02-2001,M,IIIj,West Allis
+511,Mathis,Kohen,18-08-1994,M,IVb,Dallas
+512,Rojas,Haven,28-01-1992,W,Ic,Parker
+513,Garner,Agustin,27-12-1990,M,Ib,Jackson
+514,Buckley,Carlee,09-07-1998,W,VIIIl,Woburn
+515,Boyle,Jaxxon,28-04-1993,M,VIk,Buffalo
+516,Marks,Simon,13-10-2000,M,IIg,Montgomery
+517,Savage,Landon,18-11-1997,M,If,Marietta
+518,Reynolds,Maurice,20-11-2000,M,IVj,Brooklyn Park
+519,Rodgers,Cristian,04-02-1997,M,IId,Concord
+520,Fuentes,Madeline,19-11-1996,W,IIIl,Elkhart
+521,Singh,Johnathan,05-07-1994,M,IIIj,Grand Rapids
+522,Delacruz,Avi,11-10-1994,M,VIh,North Lauderdale
+523,Garner,Miranda,27-03-1995,W,VIb,Marietta
+524,Roach,Phillip,03-10-1992,M,VIIIg,Tallahassee
+525,Hayden,Yahir,30-05-1999,M,VIIl,Burien
+526,Woodard,Addisyn,09-03-1997,W,VIIi,East Providence
+527,Morales,Garrett,10-01-1995,M,VIIIh,Mount Vernon
+528,Vazquez,Wells,30-01-1992,M,VIId,Dallas
+529,Sellers,Rocco,15-09-1999,M,IVg,Tucson
+530,Powers,Lance,27-09-1999,M,Id,North Lauderdale
+531,Savage,Jayde,12-06-1999,W,VIId,Napa
+532,Black,Kyla,15-12-1995,W,IIId,Henderson
+533,Joseph,Alexandra,13-02-2000,W,VIIIi,Weymouth Town
+534,Lamb,Jayceon,23-04-1999,M,Ii,Doral
+535,Shah,Carolina,03-02-1992,W,VIIl,Denver
+536,Roy,Anna,21-08-1998,W,Vh,Roswell
+537,Wolf,Grant,02-10-2001,M,Vc,Tampa
+538,Cantrell,Ellison,17-07-1999,W,VIj,Lenexa
+539,Vaughn,Lydia,13-09-2000,W,VIIi,Perris
+540,Solis,Jesse,02-01-2002,M,VIIIh,Aurora
+541,Becker,Erik,11-12-1991,M,IIg,Salem
+542,Mack,Kairi,30-05-1998,W,IIId,Murrieta
+543,Phelps,Sylvie,08-04-2000,W,Vj,Binghamton
+544,Lawrence,Maisie,09-11-1997,W,IIb,Eagan
+545,Newton,Jon,06-08-2001,M,VIa,Porterville
+546,Compton,Brycen,20-01-1991,M,VIIIl,Bellflower
+547,Macias,Ramona,18-12-1995,W,IIf,Eagan
+548,Montoya,Lexie,12-04-1995,W,VIIIa,Roanoke
+549,Wade,Andres,30-07-1999,M,VIa,Walnut Creek
+550,Castro,Denver,10-09-1991,M,IIe,Springfield
+551,Francis,Danica,26-01-1994,W,Vl,Waterbury
+552,Lester,Mohammad,11-01-1993,M,IVb,Visalia
+553,Nielsen,Armando,17-02-1999,M,IVg,Boston
+554,Friedman,Ephraim,03-06-2000,M,IVd,Boulder
+555,Reilly,Esteban,18-08-1991,M,Ib,Lima
+556,Meyers,Adam,08-06-1998,M,VIIIj,Buena Park
+557,Gregory,Sariah,27-06-2001,W,IIc,Gastonia
+558,Krueger,Saanvi,24-06-1997,W,VIa,Kansas City
+559,Webb,Remi,26-05-1996,W,Id,Doral
+560,Mcconnell,Michaela,11-06-1993,W,VId,Boise City
+561,Newman,Philip,28-07-1999,M,VIIb,Waltham
+562,Clarke,Nikolas,06-02-1996,M,Vk,Overland Park
+563,Gallagher,Tara,28-12-1996,W,IIk,Calexico
+564,Bauer,Reese,06-12-1992,W,VIIk,Grand Forks
+565,Daugherty,Penelope,15-12-1991,W,IIIb,Columbus
+566,Hancock,Anika,16-01-2001,W,IVb,Florissant
+567,Butler,Emerie,14-06-1994,W,Ii,Tucson
+568,Deleon,Ayleen,08-03-1996,W,VIIh,Hollywood
+569,Roberson,Ahmed,07-11-1995,M,VIIIj,Columbus
+570,Riley,Ty,12-11-1994,M,IIIa,Marlborough
+571,Diaz,Blaire,05-05-1996,W,VIh,Oak Lawn
+572,Leal,Evelynn,31-01-1995,W,If,Kettering
+573,Bryan,Noemi,17-02-1996,W,IIf,Modesto
+574,Wagner,Amanda,10-01-1997,W,Va,Lakewood
+575,Spears,Helen,17-10-1991,W,IVh,Apopka
+576,Rodriguez,Laura,10-05-1993,W,Vh,Jackson
+577,Livingston,Ronan,07-08-1999,M,IVl,Lake Havasu City
+578,Coffey,Rosalyn,24-01-1993,W,Vf,Lafayette
+579,Clay,Yamileth,16-12-1991,W,Ij,Boise City
+580,Richards,Melanie,19-08-1995,W,VIIIj,Rowlett
+581,Vaughn,Skyla,10-07-1995,W,VIId,Henderson
+582,Gardner,Toby,11-10-2001,M,IIc,Lancaster
+583,Gilbert,Dulce,13-10-1997,W,VIe,Rogers
+584,Hale,Benjamin,04-10-1995,M,Vf,Lubbock
+585,Parsons,Crystal,28-12-1995,W,VIe,Lincoln
+586,Carr,Wesley,24-10-1999,M,VIIk,Bremerton
+587,Stanton,Omar,22-03-1994,M,Vg,Daytona Beach
+588,Oneill,Carla,25-02-1999,W,Ig,Grand Rapids
+589,Abbott,Brooklynn,03-10-1996,W,IIIa,Glenview
+590,Christian,Rosa,18-10-1992,W,VIIIc,Kettering
+591,Tapia,Lyle,13-05-2000,M,VIh,Riverside
+592,Nolan,Santos,17-12-1999,M,Ik,Tulare
+593,Christensen,Abel,31-05-2000,M,IIIe,Montgomery
+594,Sims,Ty,09-08-1993,M,IIIi,Jackson
+595,Walls,Maxine,14-09-1990,W,VIk,Mount Pleasant
+596,Heath,Zavier,21-02-1993,M,VIIIf,Rochester
+597,Villa,Eric,15-11-1999,M,VIIc,DeKalb
+598,Lin,Kasen,27-08-1993,M,VIIg,Coral Springs
+599,Hale,Heidi,13-01-1993,W,IVf,El Centro
