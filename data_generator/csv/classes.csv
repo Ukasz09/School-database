@@ -1,96 +1,96 @@
-Ia,biologiczno-chemiczny,21
-Ib,muzyczny,44
-Ic,ogolnoksztalcacy,43
-Id,informatyczny,6
-Ie,ogolnoksztalcacy,15
-If,ogolnoksztalcacy,26
-Ig,chamiczny,19
-Ih,artystyczny,5
-Ii,sportowy,30
-Ij,biologiczny,31
-Ik,humanistyczny,40
-Il,biologiczny,38
-IIa,ogolnoksztalcacy,12
-IIb,ogolnoksztalcacy,44
-IIc,matematyczno-geografizcny,9
-IId,ogolnoksztalcacy,41
-IIe,sportowy,0
-IIf,ogolnoksztalcacy,29
-IIg,informatyczny,49
-IIh,sportowy,26
-IIi,matematyczno-fizyczny,18
-IIj,muzyczny,20
-IIk,ogolnoksztalcacy,34
-IIl,matematyczno-geografizcny,18
-IIIa,matematyczno-fizyczny,0
-IIIb,biologiczny,14
-IIIc,ogolnoksztalcacy,5
-IIId,humanistyczny,43
-IIIe,matematyczno-fizyczny,31
-IIIf,artystyczny,0
-IIIg,humanistyczny,19
-IIIh,ogolnoksztalcacy,19
-IIIi,muzyczny,15
-IIIj,biologiczny,6
-IIIk,matematyczno-fizyczny,2
-IIIl,artystyczny,4
-IVa,chamiczny,18
-IVb,matematyczno-fizyczny,27
-IVc,ogolnoksztalcacy,28
-IVd,artystyczny,10
-IVe,ogolnoksztalcacy,45
-IVf,humanistyczny,2
-IVg,biologiczno-chemiczny,35
-IVh,matematyczno-fizyczny,47
-IVi,artystyczny,34
-IVj,biologiczno-chemiczny,47
-IVk,ogolnoksztalcacy,18
-IVl,biologiczny,32
-Va,ogolnoksztalcacy,17
-Vb,biologiczno-chemiczny,17
-Vc,matematyczno-fizyczny,34
-Vd,artystyczny,8
-Ve,sportowy,9
-Vf,sportowy,45
-Vg,matematyczno-geografizcny,44
-Vh,artystyczny,31
-Vi,ogolnoksztalcacy,10
-Vj,matematyczno-geografizcny,41
-Vk,sportowy,20
-Vl,biologiczno-chemiczny,10
-VIa,matematyczno-fizyczny,44
-VIb,matematyczno-geografizcny,2
-VIc,biologiczny,35
-VId,sportowy,35
-VIe,ogolnoksztalcacy,48
-VIf,ogolnoksztalcacy,31
-VIg,sportowy,42
-VIh,informatyczny,44
-VIi,matematyczno-geografizcny,38
-VIj,ogolnoksztalcacy,25
-VIk,biologiczno-chemiczny,41
-VIl,ogolnoksztalcacy,25
-VIIa,ogolnoksztalcacy,34
-VIIb,biologiczno-chemiczny,4
-VIIc,ogolnoksztalcacy,23
-VIId,matematyczno-fizyczny,46
-VIIe,ogolnoksztalcacy,15
-VIIf,chamiczny,12
-VIIg,sportowy,11
-VIIh,artystyczny,12
-VIIi,biologiczno-chemiczny,37
-VIIj,ogolnoksztalcacy,40
-VIIk,biologiczny,31
-VIIl,matematyczny,4
-VIIIa,matematyczno-fizyczny,47
-VIIIb,biologiczny,12
-VIIIc,ogolnoksztalcacy,10
-VIIId,artystyczny,7
-VIIIe,humanistyczny,26
-VIIIf,ogolnoksztalcacy,38
-VIIIg,ogolnoksztalcacy,49
-VIIIh,matematyczno-fizyczny,2
-VIIIi,artystyczny,17
-VIIIj,sportowy,24
-VIIIk,ogolnoksztalcacy,36
-VIIIl,informatyczny,38
+Ia,math-geography,14
+Ib,lingual,36
+Ic,biology,7
+Id,math-science,13
+Ie,biology,7
+If,musician,38
+Ig,math-geography,29
+Ih,computer science,3
+Ii,math-science,9
+Ij,arts,37
+Ik,biology-chemistry,35
+Il,general education,41
+IIa,chemistry,25
+IIb,general education,17
+IIc,arts,1
+IId,lingual,43
+IIe,math-science,43
+IIf,general education,1
+IIg,general education,38
+IIh,math-geography,1
+IIi,computer science,45
+IIj,biology-chemistry,23
+IIk,humanities,21
+IIl,computer science,23
+IIIa,biology,46
+IIIb,general education,22
+IIIc,chemistry,16
+IIId,math,6
+IIIe,humanities,17
+IIIf,humanities,22
+IIIg,general education,0
+IIIh,lingual,43
+IIIi,math,41
+IIIj,biology,33
+IIIk,biology-chemistry,2
+IIIl,general education,49
+IVa,social-studies,4
+IVb,general education,16
+IVc,humanities,20
+IVd,social-studies,41
+IVe,social-studies,36
+IVf,social-studies,19
+IVg,chemistry,30
+IVh,biology,12
+IVi,general education,33
+IVj,chemistry,45
+IVk,chemistry,18
+IVl,biology,4
+Va,social-studies,6
+Vb,computer science,31
+Vc,lingual,46
+Vd,general education,20
+Ve,humanities,28
+Vf,humanities,19
+Vg,general education,6
+Vh,math-science,41
+Vi,math,42
+Vj,math,33
+Vk,math,41
+Vl,math-science,8
+VIa,math,15
+VIb,humanities,10
+VIc,general education,37
+VId,general education,20
+VIe,computer science,30
+VIf,math,41
+VIg,chemistry,30
+VIh,biology-chemistry,12
+VIi,biology,29
+VIj,musician,32
+VIk,math-geography,11
+VIl,humanities,11
+VIIa,general education,3
+VIIb,computer science,27
+VIIc,musician,36
+VIId,general education,32
+VIIe,chemistry,1
+VIIf,musician,11
+VIIg,math-geography,1
+VIIh,general education,48
+VIIi,math-geography,22
+VIIj,general education,46
+VIIk,musician,26
+VIIl,arts,32
+VIIIa,computer science,46
+VIIIb,lingual,7
+VIIIc,biology-chemistry,34
+VIIId,lingual,24
+VIIIe,musician,20
+VIIIf,humanities,17
+VIIIg,arts,24
+VIIIh,general education,47
+VIIIi,general education,3
+VIIIj,computer science,5
+VIIIk,computer science,49
+VIIIl,general education,4
