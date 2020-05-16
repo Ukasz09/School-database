@@ -155,7 +155,7 @@ def generate_marks(amount, subj_symb_list, teacher_id_list, stud_id_list):
     csv_file.close()
 
 
-def teacher_with_all_subjects_dict(subject_id_list):
+def teacher_with_all_subjects_dict(subject_id_list, teacher_id_list):
     teacher_with_subjects = {}
     for teacher_id in teacher_id_list:
         teacher_with_subjects[teacher_id] = subject_id_list.copy()
@@ -165,19 +165,10 @@ def teacher_with_all_subjects_dict(subject_id_list):
 def generate_teaching(amount, teacher_id_list, subject_id_list):
     csv_file = get_csv_write_file(TEACHING_CSV)
     csv_writer = csv.writer(csv_file, delimiter=CSV_DELIMITER)
-    teacher_dict = teacher_with_all_subjects_dict(subject_id_list)
+    teacher_dict = teacher_with_all_subjects_dict(subject_id_list, teacher_id_list)
     for i in range(amount):
         teacher_id = rand_elem(teacher_id_list)
         subject_id = remove_and_return_rand_elem(teacher_dict.get(teacher_id))
         hours_per_week = random.randint(1, int(MAX_WEEKLY_TEACHING_LOAD / 3))
         csv_writer.writerow([teacher_id, subject_id, hours_per_week])
     csv_file.close()
-
-
-if __name__ == "__main__":
-    subject_id_list = csv_data_to_list(SUBJECTS_CSV, data_columns=0)
-    stud_id_list = generate_student_data(600)
-    teacher_id_list = generate_teacher_data(50)
-    generate_school_classes(teacher_id_list, 0.3)
-    generate_marks(200, subject_id_list, teacher_id_list, stud_id_list)
-    generate_teaching(150, teacher_id_list, subject_id_list)
