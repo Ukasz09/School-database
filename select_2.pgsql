@@ -4,7 +4,6 @@ SELECT
     student_id AS id,
     students.name,
     students.surname,
-    classes.class_number,
     cities.name AS city_name
 FROM
     students

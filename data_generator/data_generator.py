@@ -28,6 +28,7 @@ GRADES = [1, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5]
 MIN_HOURLY_RATE = 17
 MAX_HOURLY_RATE = 35
 MAX_WEEKLY_TEACHING_LOAD = 40
+DATE_FORMAT = "%Y-%m-%d"
 
 
 # -------------------------------------------------------------------------------------------------------------------- #
@@ -60,7 +61,7 @@ def rand_date(start, end):
 
 
 def format_date(date):
-    return datetime.strftime(date, "%d-%m-%Y")
+    return datetime.strftime(date, DATE_FORMAT)
 
 
 def rand_profile(probability_of_general_profile):
@@ -111,7 +112,7 @@ def generate_school_classes(teachers_id_list, probability_of_general_profile):
 
 
 def rand_student_birth_date():
-    start_date = datetime.strptime("01-01-1990", "%d-%m-%Y")
+    start_date = datetime.strptime("1990-01-01", DATE_FORMAT)
     end_date = datetime.now() - timedelta(days=18 * 365)
     return rand_date(start_date, end_date)
 
@@ -133,7 +134,7 @@ def generate_student_data(amount, classes_id_list):
 
 
 def rand_teacher_birth_date():
-    birth_start_date = datetime.strptime("01-01-1960", "%d-%m-%Y")
+    birth_start_date = datetime.strptime("1960-01-01", DATE_FORMAT)
     birth_end_date = datetime.now() - timedelta(days=20 * 365)
     return rand_date(birth_start_date, birth_end_date)
 
@@ -144,8 +145,8 @@ def rand_teacher_employment_date(birth_date):
 
 
 def rand_grade_date():
-    start_date = datetime.strptime("01-01-2019", "%d-%m-%Y")
-    end_date = datetime.strptime("31-12-2019", "%d-%m-%Y")
+    start_date = datetime.strptime("2019-01-01", DATE_FORMAT)
+    end_date = datetime.strptime("2019-12-31", DATE_FORMAT)
     return rand_date(start_date, end_date)
 
 

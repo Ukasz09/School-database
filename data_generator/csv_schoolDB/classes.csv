@@ -1,96 +1,96 @@
-0,I,a,social-studies,181
-1,I,b,general education,81
-2,I,c,arts,187
-3,I,d,computer science,142
-4,I,e,chemistry,49
-5,I,f,biology-chemistry,125
-6,I,g,biology-chemistry,36
-7,I,h,math-science,179
-8,I,i,math-geography,130
-9,I,j,biology,112
-10,I,k,general education,184
-11,I,l,musician,128
-12,II,a,general education,63
-13,II,b,social-studies,164
-14,II,c,math-geography,12
-15,II,d,computer science,68
-16,II,e,general education,93
-17,II,f,biology,34
-18,II,g,humanities,13
-19,II,h,general education,71
-20,II,i,arts,119
-21,II,j,general education,94
-22,II,k,humanities,30
-23,II,l,computer science,151
-24,III,a,math,137
-25,III,b,biology,14
-26,III,c,math,183
-27,III,d,math,99
-28,III,e,computer science,139
-29,III,f,chemistry,161
-30,III,g,math-science,110
-31,III,h,musician,1
-32,III,i,social-studies,155
-33,III,j,math-science,92
-34,III,k,lingual,26
-35,III,l,general education,133
-36,IV,a,math,52
-37,IV,b,general education,168
-38,IV,c,math-geography,7
-39,IV,d,humanities,108
-40,IV,e,chemistry,20
-41,IV,f,arts,150
-42,IV,g,arts,136
-43,IV,h,math-science,8
-44,IV,i,general education,146
-45,IV,j,lingual,177
-46,IV,k,math,153
-47,IV,l,computer science,54
-48,V,a,math-science,180
-49,V,b,computer science,188
-50,V,c,math-geography,35
-51,V,d,biology,18
-52,V,e,humanities,127
-53,V,f,biology,191
-54,V,g,arts,65
-55,V,h,humanities,186
-56,V,i,general education,43
-57,V,j,biology,149
-58,V,k,general education,3
-59,V,l,arts,6
-60,VI,a,musician,174
-61,VI,b,math-geography,157
-62,VI,c,math-geography,22
-63,VI,d,general education,96
-64,VI,e,musician,105
-65,VI,f,general education,45
-66,VI,g,math-geography,89
-67,VI,h,chemistry,0
-68,VI,i,biology,67
-69,VI,j,general education,2
-70,VI,k,humanities,143
-71,VI,l,math-science,114
-72,VII,a,lingual,178
-73,VII,b,general education,4
-74,VII,c,computer science,57
-75,VII,d,math-geography,116
-76,VII,e,general education,44
-77,VII,f,computer science,42
-78,VII,g,math,132
-79,VII,h,general education,55
-80,VII,i,general education,147
-81,VII,j,general education,48
-82,VII,k,biology,172
-83,VII,l,humanities,73
-84,VIII,a,social-studies,33
-85,VIII,b,general education,156
-86,VIII,c,computer science,182
-87,VIII,d,math,9
-88,VIII,e,computer science,170
-89,VIII,f,computer science,159
-90,VIII,g,math,129
-91,VIII,h,arts,138
-92,VIII,i,math-geography,17
-93,VIII,j,math-science,103
-94,VIII,k,general education,91
-95,VIII,l,social-studies,25
+0,I,a,math,18
+1,I,b,math-geography,80
+2,I,c,math-science,105
+3,I,d,general education,188
+4,I,e,musician,14
+5,I,f,math-geography,38
+6,I,g,math,27
+7,I,h,biology-chemistry,118
+8,I,i,lingual,74
+9,I,j,humanities,48
+10,I,k,general education,0
+11,I,l,general education,21
+12,II,a,chemistry,69
+13,II,b,math,16
+14,II,c,social-studies,112
+15,II,d,general education,130
+16,II,e,general education,49
+17,II,f,lingual,185
+18,II,g,computer science,59
+19,II,h,general education,111
+20,II,i,math,64
+21,II,j,general education,65
+22,II,k,math,190
+23,II,l,chemistry,17
+24,III,a,general education,55
+25,III,b,math,6
+26,III,c,math-science,58
+27,III,d,biology,76
+28,III,e,general education,166
+29,III,f,general education,86
+30,III,g,biology,31
+31,III,h,math-science,153
+32,III,i,computer science,108
+33,III,j,general education,132
+34,III,k,general education,145
+35,III,l,general education,107
+36,IV,a,general education,28
+37,IV,b,musician,88
+38,IV,c,humanities,29
+39,IV,d,general education,123
+40,IV,e,general education,42
+41,IV,f,math,78
+42,IV,g,computer science,163
+43,IV,h,biology-chemistry,73
+44,IV,i,math,3
+45,IV,j,general education,98
+46,IV,k,general education,67
+47,IV,l,social-studies,68
+48,V,a,math,12
+49,V,b,general education,134
+50,V,c,musician,83
+51,V,d,musician,117
+52,V,e,humanities,72
+53,V,f,lingual,46
+54,V,g,musician,187
+55,V,h,biology-chemistry,119
+56,V,i,musician,100
+57,V,j,general education,19
+58,V,k,chemistry,43
+59,V,l,musician,162
+60,VI,a,humanities,79
+61,VI,b,humanities,33
+62,VI,c,general education,53
+63,VI,d,lingual,61
+64,VI,e,general education,93
+65,VI,f,musician,24
+66,VI,g,general education,94
+67,VI,h,math,92
+68,VI,i,general education,109
+69,VI,j,social-studies,82
+70,VI,k,general education,66
+71,VI,l,general education,181
+72,VII,a,biology-chemistry,45
+73,VII,b,social-studies,75
+74,VII,c,computer science,60
+75,VII,d,general education,160
+76,VII,e,general education,4
+77,VII,f,math-geography,23
+78,VII,g,general education,47
+79,VII,h,computer science,186
+80,VII,i,biology,138
+81,VII,j,math-science,139
+82,VII,k,general education,175
+83,VII,l,general education,90
+84,VIII,a,general education,101
+85,VIII,b,math-geography,115
+86,VIII,c,general education,170
+87,VIII,d,biology,165
+88,VIII,e,lingual,172
+89,VIII,f,math-geography,129
+90,VIII,g,biology,9
+91,VIII,h,general education,5
+92,VIII,i,social-studies,102
+93,VIII,j,math-geography,40
+94,VIII,k,general education,116
+95,VIII,l,general education,127

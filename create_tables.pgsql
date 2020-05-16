@@ -7,8 +7,8 @@ CREATE TABLE teachers (
     teacher_id integer PRIMARY KEY,
     surname varchar(50) NOT NULL,
     name varchar(50) NOT NULL,
-    employment_date date NOT NULL DEFAULT NOW(),
-    birth_date date NOT NULL,
+    employment_date DATE NOT NULL DEFAULT NOW(),
+    birth_date DATE NOT NULL,
     sex char(1),
     hourly_rate float NOT NULL DEFAULT 17,
     teching_load integer NOT NULL DEFAULT 40,
@@ -27,7 +27,7 @@ CREATE TABLE students (
     student_id integer PRIMARY KEY,
     surname varchar(50) NOT NULL,
     name varchar(50) NOT NULL,
-    birth_date date NOT NULL,
+    birth_date DATE NOT NULL,
     sex char(1),
     class_id integer REFERENCES classes (class_id),
     residence_location integer REFERENCES cities (city_id)
@@ -43,7 +43,7 @@ CREATE TABLE grades (
     subject_id integer REFERENCES subjects (subject_id),
     teacher_id integer REFERENCES teachers (teacher_id),
     grade float NOT NULL,
-    insertion_date date DEFAULT NOW()
+    insertion_date DATE DEFAULT NOW()
 );
 
 CREATE TABLE teaching (
