@@ -16,7 +16,9 @@ CREATE TABLE teachers (
 );
 
 CREATE TABLE classes (
-    class_symbol varchar(6) PRIMARY KEY,
+    class_id integer PRIMARY KEY,
+    class_number varchar(5) NOT NULL,
+    class_label char(1),
     profile varchar(50) NOT NULL DEFAULT 'general education',
     tutor_id integer REFERENCES teachers (teacher_id)
 );
@@ -27,7 +29,7 @@ CREATE TABLE students (
     name varchar(50) NOT NULL,
     birth_date date NOT NULL,
     sex char(1),
-    class_symbol varchar(6) REFERENCES classes (class_symbol),
+    class_id integer REFERENCES classes (class_id),
     residence_location integer REFERENCES cities (city_id)
 );
 
@@ -50,3 +52,4 @@ CREATE TABLE teaching (
     hours_per_week integer NOT NULL,
     PRIMARY KEY (teacher_id, subject_id)
 );
+

@@ -63,10 +63,6 @@ def format_date(date):
     return datetime.strftime(date, "%d-%m-%Y")
 
 
-def rand_class_symbol():
-    return rand_elem(CLASS_PREFIXES) + rand_elem(CLASS_SUFFIXES)
-
-
 def rand_profile(probability_of_general_profile):
     if random.randint(0, 100) <= 100 * probability_of_general_profile:
         return GENERAL_CLASS_PROFILE
@@ -77,40 +73,7 @@ def rand_profile(probability_of_general_profile):
 female_names = csv_data_to_list(FEMALE_NAME_CSV)
 male_names = csv_data_to_list(MALE_NAME_CSV)
 surnames = csv_data_to_list(SURNAMES_CSV)
-all_possible_classes = [pref + suf for pref, suf in product(CLASS_PREFIXES, CLASS_SUFFIXES)]
-
-
-def rand_student_birth_date():
-    start_date = datetime.strptime("01-01-1990", "%d-%m-%Y")
-    end_date = datetime.now() - timedelta(days=18 * 365)
-    return rand_date(start_date, end_date)
-
-
-def generate_student_data(amount):
-    csv_file = get_csv_write_file(STUDENTS_CSV)
-    csv_writer = csv.writer(csv_file, delimiter=CSV_DELIMITER)
-    city_id_list = csv_data_to_list(CITIES_CSV, 0)
-    indexes = []
-    for i in range(amount):
-        sex = 'W' if random.randint(0, 1) == 0 else 'M'
-        name = rand_elem(female_names) if sex == "W" else rand_elem(male_names)
-        birth_date = format_date(rand_student_birth_date())
-        row = [i, rand_elem(surnames), name, birth_date, sex, rand_class_symbol(), rand_elem(city_id_list)]
-        csv_writer.writerow(row)
-        indexes.append(i)
-    csv_file.close()
-    return indexes
-
-
-def rand_teacher_birth_date():
-    birth_start_date = datetime.strptime("01-01-1960", "%d-%m-%Y")
-    birth_end_date = datetime.now() - timedelta(days=20 * 365)
-    return rand_date(birth_start_date, birth_end_date)
-
-
-def rand_teacher_employment_date(birth_date):
-    employment_end_date = datetime.now() - timedelta(days=2 * 365)
-    return rand_date(birth_date + timedelta(days=18 * 365), employment_end_date)
+all_possible_classes = [(pref, suf) for pref, suf in product(CLASS_PREFIXES, CLASS_SUFFIXES)]
 
 
 def generate_teacher_data(amount):
@@ -136,11 +99,48 @@ def generate_school_classes(teachers_id_list, probability_of_general_profile):
     csv_file = get_csv_write_file(CLASSES_CSV)
     csv_writer = csv.writer(csv_file, delimiter=CSV_DELIMITER)
     copy_teacher_list = teachers_id_list.copy()
-    for symbol in all_possible_classes:
+    indexes = []
+    for i in range(len(all_possible_classes)):
+        class_tup = all_possible_classes[i]
         profile = rand_profile(probability_of_general_profile)
         tutor_id = remove_and_return_rand_elem(copy_teacher_list)
-        csv_writer.writerow([symbol, profile, tutor_id])
+        csv_writer.writerow([i, class_tup[0], class_tup[1], profile, tutor_id])
+        indexes.append(i)
     csv_file.close()
+    return indexes
+
+
+def rand_student_birth_date():
+    start_date = datetime.strptime("01-01-1990", "%d-%m-%Y")
+    end_date = datetime.now() - timedelta(days=18 * 365)
+    return rand_date(start_date, end_date)
+
+
+def generate_student_data(amount, classes_id_list):
+    csv_file = get_csv_write_file(STUDENTS_CSV)
+    csv_writer = csv.writer(csv_file, delimiter=CSV_DELIMITER)
+    city_id_list = csv_data_to_list(CITIES_CSV, 0)
+    indexes = []
+    for i in range(amount):
+        sex = 'W' if random.randint(0, 1) == 0 else 'M'
+        name = rand_elem(female_names) if sex == "W" else rand_elem(male_names)
+        birth_date = format_date(rand_student_birth_date())
+        row = [i, rand_elem(surnames), name, birth_date, sex, rand_elem(classes_id_list), rand_elem(city_id_list)]
+        csv_writer.writerow(row)
+        indexes.append(i)
+    csv_file.close()
+    return indexes
+
+
+def rand_teacher_birth_date():
+    birth_start_date = datetime.strptime("01-01-1960", "%d-%m-%Y")
+    birth_end_date = datetime.now() - timedelta(days=20 * 365)
+    return rand_date(birth_start_date, birth_end_date)
+
+
+def rand_teacher_employment_date(birth_date):
+    employment_end_date = datetime.now() - timedelta(days=2 * 365)
+    return rand_date(birth_date + timedelta(days=18 * 365), employment_end_date)
 
 
 def rand_grade_date():
