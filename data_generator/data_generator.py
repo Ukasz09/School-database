@@ -4,24 +4,25 @@ from datetime import datetime, timedelta
 from itertools import product
 
 # input
-FEMALE_NAME_CSV = "csv/female_names.csv"
-MALE_NAME_CSV = "csv/male_names.csv"
-SURNAMES_CSV = "csv/surnames.csv"
-CITIES_CSV = "csv/places_usa.csv"
-SUBJECTS_CSV = "csv/subjects.csv"
-CLASS_PROFILES_CSV = "csv/class_profiles.csv"
+FEMALE_NAME_CSV = "csv_schoolDB/female_names.csv"
+MALE_NAME_CSV = "csv_schoolDB/male_names.csv"
+SURNAMES_CSV = "csv_schoolDB/surnames.csv"
+CITIES_CSV = "csv_schoolDB/places_usa.csv"
+SUBJECTS_CSV = "csv_schoolDB/subjects.csv"
+CLASS_PROFILES_CSV = "csv_schoolDB/class_profiles.csv"
 
 # output
-STUDENTS_CSV = "csv/students.csv"
-TEACHERS_CSV = "csv/teachers.csv"
-CLASSES_CSV = "csv/classes.csv"
-MARKS_CSV = "csv/grades.csv"
-TEACHING_CSV = "csv/teaching.csv"
+STUDENTS_CSV = "csv_schoolDB/students.csv"
+TEACHERS_CSV = "csv_schoolDB/teachers.csv"
+CLASSES_CSV = "csv_schoolDB/classes.csv"
+MARKS_CSV = "csv_schoolDB/grades.csv"
+TEACHING_CSV = "csv_schoolDB/teaching.csv"
 
 # others
 CSV_DELIMITER = ","
 CLASS_PREFIXES = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]
 CLASS_SUFFIXES = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l"]
+CLASSES_QTY = len(CLASS_PREFIXES) * len(CLASS_SUFFIXES)
 GENERAL_CLASS_PROFILE = "general education"
 GRADES = [1, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5]
 MIN_HOURLY_RATE = 17
@@ -76,7 +77,6 @@ def rand_profile(probability_of_general_profile):
 female_names = csv_data_to_list(FEMALE_NAME_CSV)
 male_names = csv_data_to_list(MALE_NAME_CSV)
 surnames = csv_data_to_list(SURNAMES_CSV)
-cities = csv_data_to_list(CITIES_CSV)
 all_possible_classes = [pref + suf for pref, suf in product(CLASS_PREFIXES, CLASS_SUFFIXES)]
 
 
@@ -89,12 +89,14 @@ def rand_student_birth_date():
 def generate_student_data(amount):
     csv_file = get_csv_write_file(STUDENTS_CSV)
     csv_writer = csv.writer(csv_file, delimiter=CSV_DELIMITER)
+    city_id_list = csv_data_to_list(CITIES_CSV, 0)
     indexes = []
     for i in range(amount):
         sex = 'W' if random.randint(0, 1) == 0 else 'M'
         name = rand_elem(female_names) if sex == "W" else rand_elem(male_names)
         birth_date = format_date(rand_student_birth_date())
-        csv_writer.writerow([i, rand_elem(surnames), name, birth_date, sex, rand_class_symbol(), rand_elem(cities)])
+        row = [i, rand_elem(surnames), name, birth_date, sex, rand_class_symbol(), rand_elem(city_id_list)]
+        csv_writer.writerow(row)
         indexes.append(i)
     csv_file.close()
     return indexes
@@ -121,8 +123,9 @@ def generate_teacher_data(amount):
         birth_date = rand_teacher_birth_date()
         employment_date = format_date(rand_teacher_employment_date(birth_date))
         hourly_rate = round(random.uniform(MIN_HOURLY_RATE, MAX_HOURLY_RATE), 2)
-        teaching_load = random.randint(0, MAX_WEEKLY_TEACHING_LOAD)
-        row = [i, rand_elem(surnames), name, employment_date, format_date(birth_date), sex, hourly_rate, teaching_load]
+        load = random.randint(0, MAX_WEEKLY_TEACHING_LOAD)
+        phone = None
+        row = [i, rand_elem(surnames), name, employment_date, format_date(birth_date), sex, hourly_rate, load, phone]
         csv_writer.writerow(row)
         indexes.append(i)
     csv_file.close()
@@ -132,9 +135,10 @@ def generate_teacher_data(amount):
 def generate_school_classes(teachers_id_list, probability_of_general_profile):
     csv_file = get_csv_write_file(CLASSES_CSV)
     csv_writer = csv.writer(csv_file, delimiter=CSV_DELIMITER)
+    copy_teacher_list = teachers_id_list.copy()
     for symbol in all_possible_classes:
         profile = rand_profile(probability_of_general_profile)
-        tutor_id = rand_elem(teachers_id_list)
+        tutor_id = remove_and_return_rand_elem(copy_teacher_list)
         csv_writer.writerow([symbol, profile, tutor_id])
     csv_file.close()
 

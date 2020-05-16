@@ -36,7 +36,7 @@ CREATE TABLE subjects (
     name varchar(50) NOT NULL
 );
 
-CREATE TABLE marks (
+CREATE TABLE grades (
     student_id integer REFERENCES students (student_id),
     subject_id integer REFERENCES subjects (subject_id),
     teacher_id integer REFERENCES teachers (teacher_id),
