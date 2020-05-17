@@ -1,4 +1,5 @@
 -- Full complete students grades view --
+CREATE VIEW students_grades AS
 SELECT
     students.name || ' ' || surname || ' ' || students.student_id AS student,
     subjects.name,
