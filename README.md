@@ -1,4 +1,4 @@
-# :floppy_disk: School-database
+# :floppy_disk: School database
 
 Simple SQL database using PostgreSql, with dummy data generator written in Python <br/>
 
@@ -8,7 +8,7 @@ Simple SQL database using PostgreSql, with dummy data generator written in Pytho
 ```bash
 sudo ./copy_data.sh
 ```
-- :arrow_forward: Use sql queries from `db_setup` directory to make school database with all needed tables and import data to it <br/> 
+- :arrow_forward: Use SQL queries from `db_setup` directory: create school database, add all needed tables and then import data to it <br/> 
 - :arrow_forward: Have fun testing queries or make some new ones 😎  
 ___
 ## 📫 Contact
