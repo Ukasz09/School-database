@@ -1,6 +1,4 @@
--- Union result of two tables: --
--- teachers and students together with occupation --
-
+-- Union result of two tables: teachers and students together with occupation --
 SELECT
     students.student_id AS id,
     students.surname,

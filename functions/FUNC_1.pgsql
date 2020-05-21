@@ -1,3 +1,4 @@
+-- Converting float grades to grades in words --
 CREATE FUNCTION grade_to_words (grade float)
     RETURNS text
     AS $$

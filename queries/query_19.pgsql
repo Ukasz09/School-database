@@ -1,4 +1,4 @@
--- For every surname, amount of students with the same surname --
+-- Amount of students with the same surname, for each one available surname in database  --
 SELECT
     surname,
     COUNT(student_id) AS students_with_this_surname_qty

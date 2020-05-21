@@ -1,4 +1,4 @@
--- Math teachers --
+-- All math teachers --
 SELECT
     teachers.teacher_id,
     teachers.name,

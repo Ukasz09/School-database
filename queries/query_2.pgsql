@@ -1,5 +1,4 @@
 -- Students from class II, whose come from city beginning with [D-K] --
-
 SELECT
     student_id AS id,
     students.name,

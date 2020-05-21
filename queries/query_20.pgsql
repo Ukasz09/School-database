@@ -1,4 +1,4 @@
--- Create copy of table teachers where teacher employment_date is less than 1990 --
+-- Creating copy of teachers table, where year of teacher employment_date is less than 1990 --
 CREATE TABLE archieve AS
 SELECT
     *

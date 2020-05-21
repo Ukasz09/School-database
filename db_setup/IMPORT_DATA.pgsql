@@ -1,3 +1,4 @@
+-- Import data to tables from csv files --
 COPY cities
 FROM
     'csv_schoolDB/places_usa.csv' DELIMITERS ',' CSV;
@@ -25,3 +26,4 @@ FROM
 COPY teaching
 FROM
     'csv_schoolDB/teaching.csv' DELIMITERS ',' CSV;
+

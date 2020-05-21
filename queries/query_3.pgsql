@@ -1,4 +1,4 @@
--- Teachers employed fromt the date 2015-09-01 --
+-- Teachers employed after date 2015-09-01 --
 SELECT
     teacher_id AS id,
     surname,

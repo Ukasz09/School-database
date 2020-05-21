@@ -1,4 +1,4 @@
--- Teachers earning wiht extras (prize=0.2*hourly_rate*total_hours) --
+-- Teachers earning with extras (prize=0.2*hourly_rate*total_hours) --
 SELECT
     teachers.teacher_id,
     teachers.surname,

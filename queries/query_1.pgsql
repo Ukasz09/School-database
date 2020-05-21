@@ -1,4 +1,4 @@
--- Students from classes I, II or III --
+-- All students from classes I, II or III --
 SELECT
     student_id AS id,
     name,
