@@ -1,4 +1,4 @@
--- Calculating total teacher salary --
+-- Calculating teacher's total salary --
 CREATE FUNCTION total_salary (id_of_teacher integer)
     RETURNS float
     AS $$
