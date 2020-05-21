@@ -6,7 +6,7 @@ SELECT
     'Teacher' AS occupation
 FROM
     students
-UNION
+UNION ALL
 SELECT
     teachers.teacher_id,
     teachers.surname,
@@ -15,4 +15,6 @@ SELECT
 FROM
     teachers
 ORDER BY
-    surname
+    surname,
+    name,
+    id
