@@ -1,6 +1,11 @@
 # :floppy_disk: School database
 
-Simple SQL database using PostgreSql, with dummy data generator written in Python <br/>
+Simple SQL database for educational purpose, with dummy data generator written in Python <br/>
+
+## Used tools / libraries
+- **Database**: PostgreSql
+- **Database type**: Sql
+- **Data generator**: Python
 
 ## How to use it?
 
